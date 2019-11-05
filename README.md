@@ -136,6 +136,8 @@ For a Mac:
 
 ```sh
 # Install danger-swift, and a bundled danger-js locally
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fdyna-dot%2FSwift-5.0-For-Linux.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fdyna-dot%2FSwift-5.0-For-Linux?ref=badge_shield)
+
 brew install danger/tap/danger-swift
  # Run danger
 danger-swift ci
@@ -204,3 +206,7 @@ and I'll give you org access.
 [m]: https://github.com/JohnSundell/Marathon
 [spm-lr]: http://bhargavg.com/swift/2016/06/11/how-swiftpm-parses-manifest-file.html
 [dsl]: https://github.com/danger/danger-js/pull/341
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fdyna-dot%2FSwift-5.0-For-Linux.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fdyna-dot%2FSwift-5.0-For-Linux?ref=badge_large)
